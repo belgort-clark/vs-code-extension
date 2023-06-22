@@ -1,0 +1,22 @@
+{
+  "name": "ctec-121",
+  "displayName": "CTEC 121 Code Snippets",
+  "publisher": "bruceelgort",
+  "description": "Code snippets for CTEC 121 - Introduction to Programming and Problem Solving",
+  "version": "0.0.16",
+  "engines": {
+    "vscode": "^1.7.0"
+  },
+  "icon": "logo.jpg",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
